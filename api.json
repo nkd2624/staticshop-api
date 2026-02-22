@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "email": "22f3002624@ds.study.iitm.ac.in",
+    "version": "d6c0685c"
+  },
+  "products": [
+    {
+      "id": "prod-d6c0685c-001",
+      "name": "Premium Item 1",
+      "category": "electronics",
+      "price": 296.42,
+      "stock": 28,
+      "rating": 3.6
+    },
+    {
+      "id": "prod-d6c0685c-002",
+      "name": "Pro Item 2",
+      "category": "books",
+      "price": 122.21,
+      "stock": 2,
+      "rating": 3.9
+    },
+    {
+      "id": "prod-d6c0685c-003",
+      "name": "Elite Item 3",
+      "category": "books",
+      "price": 258.03,
+      "stock": 87,
+      "rating": 3.9
+    },
+    {
+      "id": "prod-d6c0685c-004
